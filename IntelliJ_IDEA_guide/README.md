@@ -1,4 +1,4 @@
 # Гайд по работе с IntelliJ IDEA
 ## Установка и настройка
 Скачиваем с официального сайта  
-<img src="readme_src\1.png"/>
+![](readme_src\1.png)
