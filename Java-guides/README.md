@@ -1,6 +1,54 @@
 # Гайд по Java
 ## Оглавление
-1. [Архитектура проекта](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#архитектура-проекта)
++ [Архитектура проекта](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#архитектура-проекта)
++ [Примитивные типы данных](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#примитивные-типы-данных)
++ [Как устроена Java](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#как-устроена-java)
++ [Базовый синтаксис](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#базовый-синтаксис)
+  + [Переменные примитивных типов данных](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Переменные-примитивных-типов-данных)
+  + [Все остальные переменные](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Все-остальные-переменные)
+    + [Константы](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Константы)
+    + [Ключевое слово var](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Ключевое-слово-var)
+  + [Условные операторы](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Условные-операторы)
+  + [Циклы](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Циклы)
+    + [`while`](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#while)
+    + [`do..while`](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#dowhile)
+    + [`for`](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#for)
+    + [`for each..`](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#for-each)
+  + [Пользовательский ввод и вывод в консоль](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Пользовательский-ввод-и-вывод-в-консоль)
+    + [Создание сканнера](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Создание-сканнера)
+    + [Задать разделитель для вводимых данных](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Задать-разделитель-для-вводимых-данных)
+    + [Использование сканнера](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Использование-сканнера)
+  + [Массивы](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Массивы)
+    + [Создание массива](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Создание-массива)
+    + [Свойства массива](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Свойства-массива)
+    + ["Неровные массивы"](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Неровные-массивы)
+    + [Вывод массива](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Вывод-массива)
+    + [Сравнение массивов](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Сравнение-массивов)
+    + [Заполнение массива](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Заполнение-массива)
+    + [Копирование массива](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Копирование-массива)
+    + [Сортировка массива](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Сортировка-массива)
+  + [Строки](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Строки)
+    + [Создание новой строки](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Создание-новой-строки)
+    + [Полезные методы строк](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Полезные-методы-строк)
+    + [Сравнение строк](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Сравнение-строк)
+    + [Поиск префикса и суффикса](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Поиск-префикса-и-суффикса)
+    + [Поиск подстрок](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Поиск-подстрок)
+    + [Регулярные выражения](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Регулярные-выражения)
+  + [Функции](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Функции)
+    + [Модификаторы прав доступа](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Модификаторы-прав-доступа)
+    + [`static` или не `static`](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#static-или-не-static)
+    + [Исключения](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Исключения)
+  + [Классы](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Классы)
+    + [Создание класса](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Создание-класса)
+    + [Наследование](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Наследование)
+    + [Импорт класса](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Импорт-класса)
+  + [Псевдослучайные числа в Java](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Псевдослучайные-числа-в-Java)
+  + [Другое](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Другое)
+    + [Паузы в программе](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Паузы-в-программе)
+    + [Побитовые операции](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Побитовые-операции)
+    + [Работа с флагами](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Работа-с-флагами)
+    + [Простое шифрование](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Простое-шифрование)
+    + [Другие системы счисления](https://github.com/SmartOven/Java-projects/tree/main/Java-guides#Другие-системы-счисления)
 ## Архитектура проекта
 Проект на Java состоит из пакетов. Пакеты состоят из классов, а классы - из методов. Для запуска проекта необходимо иметь 
 класс (например, Main) и метод main внутри него.
@@ -130,7 +178,7 @@ Scanner scanner_name = new Scanner(data_source)
 scan.close();
 ```
 Источником данных (`data_source`) может быть не только консоль (`System.in`), но и, например, строка.
-### Задать разделитель для вводимых данных
+#### Задать разделитель для вводимых данных
 ```java
 scanner.useDelimiter("string")
 ```
