@@ -8,49 +8,49 @@
    [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReverseLinkedList)
 3. `Move Zeroes`  
    [Задание](https://leetcode.com/problems/move-zeroes)  
-   [Решение]
+   [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MoveZeroes)
 4. `Valid Palindrome`  
    [Задание](https://leetcode.com/problems/valid-palindrome)  
-   [Решение]
+   [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ValidPalindrome)
 5. `Valid Parentheses`  
    [Задание](https://leetcode.com/problems/valid-parentheses)  
-   [Решение]
+   [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ValidParentheses)
 6. `Two Sum`  
    [Задание](https://leetcode.com/problems/two-sum)  
-   [Решение]
+   [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/TwoSum)
 7. `Number Of Recent Calls`  
    [Задание](https://leetcode.com/problems/number-of-recent-calls)  
-   [Решение]
+   [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/NumberOfRecentCalls)
 8. `Implement Queue Using Stacks`  
    [Задание](https://leetcode.com/problems/implement-queue-using-stacks)  
-   [Решение]
+   [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ImplementQueueUsingStacks)
 9. `Merge Two Sorted Lists`  
    [Задание](https://leetcode.com/problems/merge-two-sorted-lists)  
-   [Решение]
+   [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeTwoSortedLists)
 10. `Merge Sorted Array`  
     [Задание](https://leetcode.com/problems/merge-sorted-array)  
-    [Решение]
+    [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeSortedArray)
 11. `Symmetric Tree`  
     [Задание](https://leetcode.com/problems/symmetric-tree)  
-    [Решение]
+    [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SymmetricTree)
 12. `Missing Number`  
     [Задание](https://leetcode.com/problems/missing-number)  
-    [Решение]
+    [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MissingNumber)
 13. `Is Subsequence`  
     [Задание](https://leetcode.com/problems/is-subsequence)  
-    [Решение]
+    [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/IsSubsequence)
 14. `Squares Of A Sorted Array`  
     [Задание](https://leetcode.com/problems/squares-of-a-sorted-array)  
-    [Решение]
+    [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SquaresOfASortedArray)
 15. `Intersection Of Two Arrays II`  
     [Задание](https://leetcode.com/problems/intersection-of-two-arrays-ii)  
-    [Решение]
+    [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/IntersectionOfTwoArraysII)
 16. `Implement strStr`  
     [Задание](https://leetcode.com/problems/implement-strstr)  
-    [Решение]
+    [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/Implement_strStr)
 17. `Palindrome Linked List`  
     [Задание](https://leetcode.com/problems/palindrome-linked-list)  
-    [Решение]
+    [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PalindromeLinkedList)
 ## Medium
 1. `Line Reflection`  
    [Задание](https://leetcode.com/problems/line-reflection/)  
