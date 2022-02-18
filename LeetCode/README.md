@@ -2,11 +2,11 @@
 ## Easy
 1. `Summary Ranges`  
    [Задание](https://leetcode.com/problems/summary-ranges/)  
-   [Решение]
+   [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SummaryRanges)
 2. `Reverse Linked List`  
    [Задание](https://leetcode.com/problems/reverse-linked-list/)  
-   [Решение]
-3. `Move Zeros`  
+   [Решение](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReverseLinkedList)
+3. `Move Zeroes`  
    [Задание](https://leetcode.com/problems/move-zeroes)  
    [Решение]
 4. `Valid Palindrome`  
@@ -42,7 +42,7 @@
 14. `Squares Of A Sorted Array`  
     [Задание](https://leetcode.com/problems/squares-of-a-sorted-array)  
     [Решение]
-15. `Intersection Of Two Arrays Ii`  
+15. `Intersection Of Two Arrays II`  
     [Задание](https://leetcode.com/problems/intersection-of-two-arrays-ii)  
     [Решение]
 16. `Implement strStr`  
@@ -70,7 +70,7 @@
 6. `Group Anagrams`  
    [Задание](https://leetcode.com/problems/group-anagrams)  
    [Решение]
-7. `Max Consecutive Ones Ii`  
+7. `Max Consecutive Ones II`  
    [Задание](https://leetcode.com/problems/max-consecutive-ones-ii)  
    [Решение]
 8. `One Edit Distance`  
@@ -82,13 +82,13 @@
 10. `Subarray Sum Equals K`  
     [Задание](https://leetcode.com/problems/subarray-sum-equals-k)  
     [Решение]
-11. `Insert Delete Getrandom O1`  
+11. `Insert Delete Getrandom O(1)`  
     [Задание](https://leetcode.com/problems/insert-delete-getrandom-o1)  
     [Решение]
 12. `Permutation In String`  
     [Задание](https://leetcode.com/problems/permutation-in-string)  
     [Решение]
-13. `Meeting Rooms Ii`  
+13. `Meeting Rooms II`  
     [Задание](https://leetcode.com/problems/meeting-rooms-ii)  
     [Решение]
 14. `Merge Intervals`  
@@ -97,10 +97,10 @@
 15. `Validate Binary Search Tree`  
     [Задание](https://leetcode.com/problems/validate-binary-search-tree)  
     [Решение]
-16. `Spiral Matrix Ii`  
+16. `Spiral Matrix II`  
     [Задание](https://leetcode.com/problems/spiral-matrix-ii)  
     [Решение]
-17. `Max Consecutive Ones Iii`  
+17. `Max Consecutive Ones III`  
     [Задание](https://leetcode.com/problems/max-consecutive-ones-iii)  
     [Решение]
 18. `Longest Substring Without Repeating Characters`  
