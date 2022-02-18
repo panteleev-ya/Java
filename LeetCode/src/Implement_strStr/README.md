@@ -1,2 +1,2 @@
 # Implement strStr
-Решение задачи [Implement strStr](https://leetcode.com/problems/implement-strstr) с сайта **LeetCode** на языке **Java**
+Р РµС€РµРЅРёРµ Р·Р°РґР°С‡Рё [Implement strStr](https://leetcode.com/problems/implement-strstr) СЃ СЃР°Р№С‚Р° **LeetCode** РЅР° СЏР·С‹РєРµ **Java**
