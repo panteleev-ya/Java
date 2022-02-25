@@ -54,7 +54,42 @@
 34. Product Of Array Except Self
 35. Simplify Path
 
-
+Links:
+`prem` - https://leetcode.com/problems/line-reflection
+`prem` - https://leetcode.com/problems/zigzag-iterator
+`solved` - https://leetcode.com/problems/string-compression
+`in progress` - https://leetcode.com/problems/generate-parentheses
+`solved` - https://leetcode.com/problems/lru-cache
+`solved` - https://leetcode.com/problems/group-anagrams
+`prem` - https://leetcode.com/problems/max-consecutive-ones-ii
+`prem` - https://leetcode.com/problems/one-edit-distance
+`solved` - https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
+`solved` - https://leetcode.com/problems/subarray-sum-equals-k
+https://leetcode.com/problems/insert-delete-getrandom-o1
+https://leetcode.com/problems/permutation-in-string
+https://leetcode.com/problems/meeting-rooms-ii
+https://leetcode.com/problems/merge-intervals
+https://leetcode.com/problems/validate-binary-search-tree
+https://leetcode.com/problems/spiral-matrix-ii
+https://leetcode.com/problems/max-consecutive-ones-iii
+https://leetcode.com/problems/longest-substring-without-repeating-characters
+https://leetcode.com/problems/add-two-numbers
+https://leetcode.com/problems/design-hit-counter
+https://leetcode.com/problems/rotate-image
+https://leetcode.com/problems/longest-palindromic-substring
+https://leetcode.com/problems/reconstruct-itinerary
+https://leetcode.com/problems/find-k-closest-elements
+https://leetcode.com/problems/number-of-islands
+https://leetcode.com/problems/maximize-distance-to-closest-person
+https://leetcode.com/problems/subarray-sums-divisible-by-k
+https://leetcode.com/problems/search-in-rotated-sorted-array
+https://leetcode.com/problems/serialize-and-deserialize-bst
+https://leetcode.com/problems/remove-nth-node-from-end-of-list
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+https://leetcode.com/problems/evaluate-reverse-polish-notation
+https://leetcode.com/problems/perfect-squares
+https://leetcode.com/problems/product-of-array-except-self
+https://leetcode.com/problems/simplify-path
 ## Hard
 1. Merge K Sorted Lists
 2. Trapping Rain Water
