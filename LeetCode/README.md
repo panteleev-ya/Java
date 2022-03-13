@@ -18,80 +18,44 @@
 16. [Implement strStr](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/Implement_strStr)
 17. [Palindrome Linked List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PalindromeLinkedList)
 ## Medium
-1. Line Reflection
-2. Zigzag Iterator
-3. String Compression
-4. Generate Parentheses
-5. Lru Cache
-6. Group Anagrams
-7. Max Consecutive Ones II
-8. One Edit Distance
-9. Longest Subarray Of 1s After Deleting One Element
-10. Subarray Sum Equals K
-11. Insert Delete Getrandom O(1)
-12. Permutation In String
-13. Meeting Rooms II
-14. Merge Intervals
-15. Validate Binary Search Tree
-16. Spiral Matrix II
-17. Max Consecutive Ones III
-18. Longest Substring Without Repeating Characters
-19. Add Two Numbers
-20. Design Hit Counter
-21. Rotate Image
-22. Longest Palindromic Substring
-23. Reconstruct Itinerary
-24. Find K Closest Elements
-25. Number Of Islands
-26. Maximize Distance To Closest Person
-27. Subarray Sums Divisible By K
-28. Search In Rotated Sorted Array
-29. Serialize And Deserialize Bst
-30. Remove Nth Node From End Of List
-31. Find First And Last Position Of Element In Sorted Array
-32. Evaluate Reverse Polish Notation
-33. Perfect Squares
-34. Product Of Array Except Self
-35. Simplify Path
+1. Line Reflection - [`premium`](https://leetcode.com/problems/line-reflection)
+2. Zigzag Iterator - [`premium`](https://leetcode.com/problems/zigzag-iterator)
+3. [String Compression](https://leetcode.com/problems/string-compression)
+4. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
+5. Lru Cache - [`Time Limit`](https://leetcode.com/problems/lru-cache)
+6. [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+7. Max Consecutive Ones II - [`premium`](https://leetcode.com/problems/max-consecutive-ones-ii)
+8. One Edit Distance - [`premium`](https://leetcode.com/problems/one-edit-distance)
+9. [Longest Subarray Of 1s After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)
+10. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
+11. [Insert Delete Getrandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)
+12. [Permutation In String](https://leetcode.com/problems/permutation-in-string)
+13. Meeting Rooms II - [`premium`](https://leetcode.com/problems/meeting-rooms-ii)
+14. [Merge Intervals](https://leetcode.com/problems/merge-intervals)
+15. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+16. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)
+17. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)
+18. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+19. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+20. Design Hit Counter - [`premium`](https://leetcode.com/problems/design-hit-counter)
+21. [Rotate Image](https://leetcode.com/problems/rotate-image)
+22. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+23. [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)
+24. [Number Of Islands](https://leetcode.com/problems/number-of-islands)
+25. [Maximize Distance To Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)
+26. Subarray Sums Divisible By K - [`Time Limit`](https://leetcode.com/problems/subarray-sums-divisible-by-k)
+27. [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+28. [Serialize And Deserialize Bst](https://leetcode.com/problems/serialize-and-deserialize-bst)
+29. [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+30. [Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+31. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+32. [Perfect Squares](https://leetcode.com/problems/perfect-squares)
+33. [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+34. [Simplify Path](https://leetcode.com/problems/simplify-path)
 
-Links:
-`prem` - https://leetcode.com/problems/line-reflection
-`prem` - https://leetcode.com/problems/zigzag-iterator
-`solved` - https://leetcode.com/problems/string-compression
-`in progress` - https://leetcode.com/problems/generate-parentheses
-`solved` - https://leetcode.com/problems/lru-cache
-`solved` - https://leetcode.com/problems/group-anagrams
-`prem` - https://leetcode.com/problems/max-consecutive-ones-ii
-`prem` - https://leetcode.com/problems/one-edit-distance
-`solved` - https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element
-`solved` - https://leetcode.com/problems/subarray-sum-equals-k
-https://leetcode.com/problems/insert-delete-getrandom-o1
-https://leetcode.com/problems/permutation-in-string
-https://leetcode.com/problems/meeting-rooms-ii
-https://leetcode.com/problems/merge-intervals
-https://leetcode.com/problems/validate-binary-search-tree
-https://leetcode.com/problems/spiral-matrix-ii
-https://leetcode.com/problems/max-consecutive-ones-iii
-https://leetcode.com/problems/longest-substring-without-repeating-characters
-https://leetcode.com/problems/add-two-numbers
-https://leetcode.com/problems/design-hit-counter
-https://leetcode.com/problems/rotate-image
-https://leetcode.com/problems/longest-palindromic-substring
-https://leetcode.com/problems/reconstruct-itinerary
-https://leetcode.com/problems/find-k-closest-elements
-https://leetcode.com/problems/number-of-islands
-https://leetcode.com/problems/maximize-distance-to-closest-person
-https://leetcode.com/problems/subarray-sums-divisible-by-k
-https://leetcode.com/problems/search-in-rotated-sorted-array
-https://leetcode.com/problems/serialize-and-deserialize-bst
-https://leetcode.com/problems/remove-nth-node-from-end-of-list
-https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
-https://leetcode.com/problems/evaluate-reverse-polish-notation
-https://leetcode.com/problems/perfect-squares
-https://leetcode.com/problems/product-of-array-except-self
-https://leetcode.com/problems/simplify-path
 ## Hard
-1. Merge K Sorted Lists
-2. Trapping Rain Water
-3. Median Of Two Sorted Arrays
-4. Maximal Rectangle
+1. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+2. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
+3. [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+4. Maximal Rectangle - [`in progress`](https://leetcode.com/problems/maximal-rectangle)
+5. Reconstruct Itinerary - [`Time Limit`](https://leetcode.com/problems/reconstruct-itinerary)
