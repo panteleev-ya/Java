@@ -1,4 +1,6 @@
 # Задачки с LeetCode, а решения на Java
+## April Daily Task Challenge
+(Link)[https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April]
 ## Easy
 1. [Summary Ranges](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SummaryRanges)
 2. [Reverse Linked List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReverseLinkedList)
