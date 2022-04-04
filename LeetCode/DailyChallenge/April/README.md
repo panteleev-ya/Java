@@ -4,16 +4,16 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day1)
 ## Day 2
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Valid Palindrome II`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day2)
 ## Day 3
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Next Permutation`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day3)
 ## Day 4
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Swapping Nodes in a Linked List`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day4)
 ## Day 5
 **Name:** `taskName`  
