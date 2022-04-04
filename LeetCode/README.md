@@ -62,3 +62,4 @@
 3. [Median Of Two Sorted Arrays](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MedianOfTwoSortedArrays)
 4. [Maximal Rectangle](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MaximalRectangle)
 5. [Reconstruct Itinerary](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReconstructItinerary)
+6. [Sum of Scores of Built Strings](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SumOfScoresOfBuiltStrings)
