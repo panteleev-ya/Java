@@ -20,8 +20,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day5)
 ## Day 6
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `3Sum With Multiplicity`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day6)
 ## Day 7
 **Name:** `taskName`  
