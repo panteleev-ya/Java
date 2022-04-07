@@ -24,8 +24,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day6)
 ## Day 7
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Last Stone Weight`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day7)
 ## Day 8
 **Name:** `taskName`  
