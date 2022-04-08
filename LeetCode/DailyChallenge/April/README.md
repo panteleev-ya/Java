@@ -28,8 +28,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day7)
 ## Day 8
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Kth Largest Element in a Stream`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day8)
 ## Day 9
 **Name:** `taskName`  
