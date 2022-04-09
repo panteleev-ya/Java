@@ -12,18 +12,17 @@ public class Solution {
     }
 
     public static int threeSumMulti(int[] arr, int target) {
-        HashMap<Integer, MutableInt> numCounts = new HashMap<>();
+        HashMap<Integer, Integer> numCounts = new HashMap<>();
         ArrayList<Integer> nums = new ArrayList<>();
 
         // Собираем количества всех чисел и сами числа в принципе
+        int currentCount;
         for (int num : arr) {
-            MutableInt numCount = numCounts.get(num);
-            if (numCount == null) {
-                numCounts.put(num, new MutableInt());
+            currentCount = numCounts.getOrDefault(num, 0);
+            if (currentCount == 0) {
                 nums.add(num);
-            } else {
-                numCount.increment();
             }
+            numCounts.put(num, currentCount + 1);
         }
 
         // Сортируем встречающиеся числа по возрастанию
@@ -49,16 +48,16 @@ public class Solution {
                 } else {
                     // x + numBegin + numEnd == T, now calculate the size of the contribution
                     if (start < middle && middle < end) {
-                        count += (long) numCounts.get(num).get() * numCounts.get(numBegin).get() * numCounts.get(numEnd).get();
+                        count += (long) numCounts.get(num) * numCounts.get(numBegin) * numCounts.get(numEnd);
                     }
                     else if (start == middle && middle < end) {
-                        count += (long) numCounts.get(num).get() * (numCounts.get(num).get() - 1) / 2 * numCounts.get(numEnd).get();
+                        count += (long) numCounts.get(num) * (numCounts.get(num) - 1) / 2 * numCounts.get(numEnd);
                     }
                     else if (start < middle && middle == end) {
-                        count += (long) numCounts.get(num).get() * numCounts.get(numBegin).get() * (numCounts.get(numBegin).get() - 1) / 2;
+                        count += (long) numCounts.get(num) * numCounts.get(numBegin) * (numCounts.get(numBegin) - 1) / 2;
                     }
                     else {
-                        count += (long) numCounts.get(num).get() * (numCounts.get(num).get() - 1) * (numCounts.get(num).get() - 2) / 6;
+                        count += (long) numCounts.get(num) * (numCounts.get(num) - 1) * (numCounts.get(num) - 2) / 6;
                     }
 
                     middle += 1;
@@ -68,20 +67,5 @@ public class Solution {
         }
 
         return (int) (count % module);
-    }
-
-    static class MutableInt {
-        private int value;
-
-        MutableInt() {
-            value = 1;
-        }
-        public void increment() {
-            value++;
-        }
-
-        public int get() {
-            return value;
-        }
     }
 }

@@ -32,8 +32,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day8)
 ## Day 9
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Top K Frequent Elements`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day9)
 ## Day 10
 **Name:** `taskName`  
