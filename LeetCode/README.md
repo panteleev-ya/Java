@@ -19,6 +19,8 @@
 15. [Intersection Of Two Arrays II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/IntersectionOfTwoArraysII)
 16. [Implement strStr](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/Implement_strStr)
 17. [Palindrome Linked List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PalindromeLinkedList)
+18. [Remove Duplicates from Sorted Array](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RemoveDuplicatesFromSortedArray)
+19. [Remove Duplicates from Sorted List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RemoveDuplicatesFromSortedList)
 
 ## Medium
 1. [Line Reflection](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LineReflection)
@@ -55,6 +57,7 @@
 32. [Perfect Squares](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PerfectSquares)
 33. [Product Of Array Except Self](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ProductOfArrayExceptSelf)
 34. [Simplify Path](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SimplifyPath)
+35. [3Sum](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ThreeSum)
 
 ## Hard
 1. [Merge K Sorted Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeKSortedLists)
