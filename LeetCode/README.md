@@ -1,7 +1,9 @@
 # Задачки с LeetCode, а решения на Java
 ## April Daily Task Challenge
 [Link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April)
-## Easy
+## Contests
+1. [10 April 2022](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/Contests/April10)
+### Easy
 1. [Summary Ranges](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SummaryRanges)
 2. [Reverse Linked List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReverseLinkedList)
 3. [Move Zeroes](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MoveZeroes)
@@ -22,7 +24,7 @@
 18. [Remove Duplicates from Sorted Array](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RemoveDuplicatesFromSortedArray)
 19. [Remove Duplicates from Sorted List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RemoveDuplicatesFromSortedList)
 
-## Medium
+### Medium
 1. [Line Reflection](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LineReflection)
 2. [Zigzag Iterator](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ZigzagIterator)
 3. [String Compression](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/StringCompression)
@@ -59,7 +61,7 @@
 34. [Simplify Path](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SimplifyPath)
 35. [3Sum](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ThreeSum)
 
-## Hard
+### Hard
 1. [Merge K Sorted Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeKSortedLists)
 2. [Trapping Rain Water](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/TrappingRainWater)
 3. [Median Of Two Sorted Arrays](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MedianOfTwoSortedArrays)
