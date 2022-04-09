@@ -2,7 +2,7 @@
 ## April Daily Task Challenge
 [Link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April)
 ## Contests
-1. [10 April 2022](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/Contests/April10)
+1. [10 April 2022](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/Contests/src/April10)
 ### Easy
 1. [Summary Ranges](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SummaryRanges)
 2. [Reverse Linked List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReverseLinkedList)
