@@ -36,8 +36,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day9)
 ## Day 10
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Baseball Game`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day10)
 ## Day 11
 **Name:** `taskName`  
