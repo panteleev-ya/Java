@@ -44,8 +44,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day11)
 ## Day 12
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Game of Life`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day12)
 ## Day 13
 **Name:** `taskName`  
