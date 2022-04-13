@@ -48,8 +48,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day12)
 ## Day 13
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Spiral Matrix II`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day13)
 ## Day 14
 **Name:** `taskName`  
