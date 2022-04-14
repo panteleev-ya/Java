@@ -52,8 +52,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day13)
 ## Day 14
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Search in a Binary Search Tree`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day14)
 ## Day 15
 **Name:** `taskName`  
