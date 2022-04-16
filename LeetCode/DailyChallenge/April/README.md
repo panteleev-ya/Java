@@ -60,8 +60,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day15)
 ## Day 16
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Convert BST to Greater Tree`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day16)
 ## Day 17
 **Name:** `taskName`  
