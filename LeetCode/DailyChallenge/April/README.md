@@ -64,8 +64,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day16)
 ## Day 17
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Increasing Order Search Tree`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day17)
 ## Day 18
 **Name:** `taskName`  
