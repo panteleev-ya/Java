@@ -68,8 +68,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day17)
 ## Day 18
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Kth Smallest Element in a BST`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day18)
 ## Day 19
 **Name:** `taskName`  
