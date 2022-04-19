@@ -72,8 +72,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day18)
 ## Day 19
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Recover Binary Search Tree`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day19)
 ## Day 20
 **Name:** `taskName`  
