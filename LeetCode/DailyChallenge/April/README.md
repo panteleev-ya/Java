@@ -1,4 +1,4 @@
-# Leetcode April Daily Challenge
+# LeetCode April Daily Challenge
 ## Day 1
 **Name:** `Reverse String`  
 **Difficulty**: `Easy`  
@@ -76,8 +76,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day19)
 ## Day 20
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Binary Search Tree Iterator`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day20)
 ## Day 21
 **Name:** `taskName`  
