@@ -80,8 +80,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day20)
 ## Day 21
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Design HashSet`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day21)
 ## Day 22
 **Name:** `taskName`  
