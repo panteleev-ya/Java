@@ -84,8 +84,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day21)
 ## Day 22
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Design HashMap`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day22)
 ## Day 23
 **Name:** `taskName`  
