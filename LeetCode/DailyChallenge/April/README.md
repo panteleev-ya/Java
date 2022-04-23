@@ -88,8 +88,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day22)
 ## Day 23
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Encode and Decode TinyURL`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day23)
 ## Day 24
 **Name:** `taskName`  
