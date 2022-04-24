@@ -92,8 +92,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day23)
 ## Day 24
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Design Underground System`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day24)
 ## Day 25
 **Name:** `taskName`  
