@@ -96,8 +96,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day24)
 ## Day 25
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Peeking Iterator`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day25)
 ## Day 26
 **Name:** `taskName`  
