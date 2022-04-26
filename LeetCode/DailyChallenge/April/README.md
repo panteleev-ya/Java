@@ -100,8 +100,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day25)
 ## Day 26
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Min Cost to Connect All Points`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day26)
 ## Day 27
 **Name:** `taskName`  
