@@ -104,8 +104,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day26)
 ## Day 27
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Smallest String With Swaps`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day27)
 ## Day 28
 **Name:** `taskName`  
