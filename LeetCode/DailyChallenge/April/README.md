@@ -108,8 +108,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day27)
 ## Day 28
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Path With Minimum Effort`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day28)
 ## Day 29
 **Name:** `taskName`  
