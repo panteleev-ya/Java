@@ -112,8 +112,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day28)
 ## Day 29
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Is Graph Bipartite?`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day29)
 ## Day 30
 **Name:** `taskName`  
