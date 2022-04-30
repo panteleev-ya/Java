@@ -1,8 +1,8 @@
 # Задачки с LeetCode, а решения на Java
-## April Daily Task Challenge
-[Link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April)
-## Contests
-1. [10 April 2022](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/Contests/src/April10)
+## Daily Task Challenges
+1. [April](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April)
+2. [May](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May)
+
 ### Easy
 1. [Summary Ranges](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SummaryRanges)
 2. [Reverse Linked List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReverseLinkedList)
@@ -23,6 +23,16 @@
 17. [Palindrome Linked List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PalindromeLinkedList)
 18. [Remove Duplicates from Sorted Array](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RemoveDuplicatesFromSortedArray)
 19. [Remove Duplicates from Sorted List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RemoveDuplicatesFromSortedList)
+20. [Reverse String](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day1)
+21. [Valid Palindrome II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day2)
+22. [Last Stone Weight](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day7)
+23. [Kth Largest Element in a Stream](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day8)
+24. [Baseball Game](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day10)
+25. [Shift 2D Grid](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day11)
+26. [Search in a Binary Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day14)
+27. [Increasing Order Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day17)
+28. [Design HashSet](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day21)
+29. [Design HashMap](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day22)
 
 ### Medium
 1. [Line Reflection](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LineReflection)
@@ -60,6 +70,26 @@
 33. [Product Of Array Except Self](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ProductOfArrayExceptSelf)
 34. [Simplify Path](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SimplifyPath)
 35. [3Sum](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ThreeSum)
+36. [Next Permutation](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day3)
+37. [Swapping Nodes in a Linked List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day4)
+38. [Container With Most Water](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day5)
+39. [3Sum With Multiplicity](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day6)
+40. [Top K Frequent Elements](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day9)
+41. [Game of Life](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day12)
+42. [Spiral Matrix II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day13)
+43. [Trim a Binary Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day15)
+44. [Convert BST to Greater Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day16)
+45. [Kth Smallest Element in a BST](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day18)
+46. [Recover Binary Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day19)
+47. [Binary Search Tree Iterator](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day20)
+48. [Encode and Decode TinyURL](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day23)
+49. [Design Underground System](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day24)
+50. [Peeking Iterator](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day25)
+51. [Min Cost to Connect All Points](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day26)
+52. [Smallest String With Swaps](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day27)
+53. [Path With Minimum Effort](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day28)
+54. [Is Graph Bipartite?](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day29)
+55. [Evaluate Division](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day30)
 
 ### Hard
 1. [Merge K Sorted Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeKSortedLists)
@@ -68,3 +98,4 @@
 4. [Maximal Rectangle](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MaximalRectangle)
 5. [Reconstruct Itinerary](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReconstructItinerary)
 6. [Sum of Scores of Built Strings](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SumOfScoresOfBuiltStrings)
+7. [Regular Expression Matching](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RegularExpressionMatching)
