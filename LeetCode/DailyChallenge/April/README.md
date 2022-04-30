@@ -116,6 +116,6 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day29)
 ## Day 30
-**Name:** `taskName`  
-**Difficulty**: `difficulty`  
+**Name:** `Evaluate Division`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day30)
