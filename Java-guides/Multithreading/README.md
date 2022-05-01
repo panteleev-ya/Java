@@ -70,3 +70,79 @@ public static void main(String[] args) {
     // что и означает завершение работы нити
 }
 ```
+
+## Ключевое слово synchronized
+Чтобы различные нити не использовали общий ресурс одновременно - существует механизм временной блокировки нити - 
+`synchronized`. Данным словом может быть помечен либо кусок кода
+```
+class MyClass {
+    private static String name1 = "Оля";
+    private static String name2 = "Лена";
+
+    public void swap() {
+        synchronized (this) {
+            String s = name1;
+            name1 = name2;
+            name2 = s;
+        }
+    }
+
+    public static void swap2() {
+        synchronized (MyClass.class) {
+            String s = name1;
+            name1 = name2;
+            name2 = s;
+        }
+    }
+}
+```
+Либо метод
+```
+class MyClass {
+    private static String name1 = "Оля";
+    private static String name2 = "Лена";
+
+    public synchronized void swap() {
+        String s = name1;
+        name1 = name2;
+        name2 = s;
+    }
+
+    public static synchronized void swap2() {
+        String s = name1;
+        name1 = name2;
+        name2 = s;
+    }
+}
+```
+В случае со `swap` будет заблокирован объект `this` класса `MyClass`, а в случае со `swap2` будет заблокирован
+статический объект `MyClass.class` класса `MyClass`. При попытке использовать заблокированный объект в другой нити
+она будет остановлена, и продолжит свою работу только когда объект станет доступным (будет разблокирован)
+
+## Ключевое слово volatile
+Самые часто используемые переменные процессор помещает из обычной (медленной) памяти в свой кэш (в быструю память), при
+этом у каждой нити свой отдельный кэш и, при изменении переменной в медленной памяти, переменные в нитях (в их кэшах)
+остаются неизменными. Ключевое слово _volatile_ нужно для того, чтобы всегда принудительно читать и записывать 
+переменную только в обычную (медленную) память. Обычная (медленная) память - общая для всех нитей.
+```
+class Clock implements Runnable {
+    private volatile boolean isCancel = false;
+
+    public void cancel() {
+        this.isCancel = true;
+    }
+
+    public void run() {
+        while (!this.isCancel) {
+            Thread.sleep(1000);
+            System.out.println("Tik");
+        }
+    }
+}
+```
+
+## Метод Thread.yield()
+Нити выполняются поочередно, сначала выполняется одна нить в течение "кванта" времени (обычно около 10мс), затем другая
+и так далее. Метод `Thread.yield()` досрочно завершает квант выполнения данной (current) нити. Это позволяет начать
+выполнение строк кода нити (следующих после метода `Thread.yield()`) с нового кванта времени, что уменьшает
+риск их прерывания (того, что после выполнения части из них квант закончится и нить будет приостановлена).
