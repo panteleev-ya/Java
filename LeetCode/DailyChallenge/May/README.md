@@ -4,8 +4,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day1)
 ## Day 2
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Sort Array By Parity`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day2)
 ## Day 3
 **Name:** `Name`  
