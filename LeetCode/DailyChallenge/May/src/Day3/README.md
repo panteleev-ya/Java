@@ -1,0 +1,2 @@
+# Shortest Unsorted Continuous Subarray
+Решение задачи [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) c сайта **LeetCode** на языке **Java**
