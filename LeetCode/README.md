@@ -93,6 +93,7 @@
 56. [3Sum Closest](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ThreeSumClosest)
 57. [Letter Combinations of a Phone Number](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LetterCombinationsOfAPhoneNumber)
 58. [4Sum](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/FourSum)
+59. [Swap Nodes in Pairs](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SwapNodesInPairs)
 
 ### Hard
 1. [Merge K Sorted Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeKSortedLists)
@@ -102,3 +103,4 @@
 5. [Reconstruct Itinerary](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReconstructItinerary)
 6. [Sum of Scores of Built Strings](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SumOfScoresOfBuiltStrings)
 7. [Regular Expression Matching](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RegularExpressionMatching)
+8. [Reverse Nodes in k-Group](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReverseNodesInKGroup)
