@@ -90,6 +90,7 @@
 53. [Path With Minimum Effort](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day28)
 54. [Is Graph Bipartite?](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day29)
 55. [Evaluate Division](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day30)
+56. [3Sum Closest](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ThreeSumClosest)
 
 ### Hard
 1. [Merge K Sorted Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeKSortedLists)
