@@ -92,6 +92,7 @@
 55. [Evaluate Division](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day30)
 56. [3Sum Closest](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ThreeSumClosest)
 57. [Letter Combinations of a Phone Number](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LetterCombinationsOfAPhoneNumber)
+58. [4Sum](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/FourSum)
 
 ### Hard
 1. [Merge K Sorted Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeKSortedLists)
