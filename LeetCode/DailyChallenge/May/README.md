@@ -12,8 +12,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day3)
 ## Day 4
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Max Number of K-Sum Pairs`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day4)
 ## Day 5
 **Name:** `Name`  
