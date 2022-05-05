@@ -16,8 +16,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day4)
 ## Day 5
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Implement Stack using Queues`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day5)
 ## Day 6
 **Name:** `Name`  
