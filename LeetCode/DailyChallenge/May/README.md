@@ -20,8 +20,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day5)
 ## Day 6
-**Name:** `Name`  
-**Difficulty**: `Difficulty`   
+**Name:** `Remove All Adjacent Duplicates in String II`  
+**Difficulty**: `Medium`   
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day6)
 ## Day 7
 **Name:** `Name`  
