@@ -36,8 +36,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day9)
 ## Day 10
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Combination Sum III`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day10)
 ## Day 11
 **Name:** `Name`  
