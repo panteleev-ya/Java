@@ -33,6 +33,7 @@
 27. [Increasing Order Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day17)
 28. [Design HashSet](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day21)
 29. [Design HashMap](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day22)
+30. [Remove Element](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RemoveElement)
 
 ### Medium
 1. [Line Reflection](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LineReflection)
@@ -94,6 +95,7 @@
 57. [Letter Combinations of a Phone Number](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LetterCombinationsOfAPhoneNumber)
 58. [4Sum](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/FourSum)
 59. [Swap Nodes in Pairs](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SwapNodesInPairs)
+60. [Divide Two Integers](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/DivideTwoIntegers)
 
 ### Hard
 1. [Merge K Sorted Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeKSortedLists)
@@ -104,3 +106,4 @@
 6. [Sum of Scores of Built Strings](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SumOfScoresOfBuiltStrings)
 7. [Regular Expression Matching](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RegularExpressionMatching)
 8. [Reverse Nodes in k-Group](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReverseNodesInKGroup)
+9. [Longest Valid Parentheses](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LongestValidParentheses)
