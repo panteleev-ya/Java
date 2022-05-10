@@ -24,16 +24,16 @@
 **Difficulty**: `Medium`   
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day6)
 ## Day 7
-**Name:** `Name`  
-**Difficulty**: `Difficulty`   
+**Name:** `132 Pattern`  
+**Difficulty**: `Medium`   
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day7)
 ## Day 8
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Flatten Nested List Iterator`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day8)
 ## Day 9
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Letter Combinations of a Phone Number`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day9)
 ## Day 10
 **Name:** `Name`  
