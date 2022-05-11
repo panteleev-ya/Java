@@ -40,8 +40,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day10)
 ## Day 11
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Count Sorted Vowel Strings`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day11)
 ## Day 12
 **Name:** `Name`  
