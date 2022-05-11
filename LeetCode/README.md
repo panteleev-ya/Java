@@ -97,6 +97,7 @@
 58. [4Sum](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/FourSum)
 59. [Swap Nodes in Pairs](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SwapNodesInPairs)
 60. [Divide Two Integers](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/DivideTwoIntegers)
+61. [Valid Sudoku](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ValidSudoku)
 
 ### Hard
 1. [Merge K Sorted Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeKSortedLists)
