@@ -34,6 +34,7 @@
 28. [Design HashSet](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day21)
 29. [Design HashMap](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day22)
 30. [Remove Element](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RemoveElement)
+31. [Binary Tree Inorder Traversal](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/BinaryTreeInorderTraversal)
 
 ### Medium
 1. [Line Reflection](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LineReflection)
