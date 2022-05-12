@@ -44,8 +44,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day11)
 ## Day 12
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Permutations II`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day12)
 ## Day 13
 **Name:** `Name`  
