@@ -48,8 +48,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day12)
 ## Day 13
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Populating Next Right Pointers in Each Node II`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day13)
 ## Day 14
 **Name:** `Name`  
