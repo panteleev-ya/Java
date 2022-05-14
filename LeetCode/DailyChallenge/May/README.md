@@ -52,8 +52,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day13)
 ## Day 14
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Network Delay Time`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day14)
 ## Day 15
 **Name:** `Name`  
