@@ -56,8 +56,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day14)
 ## Day 15
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Deepest Leaves Sum`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day15)
 ## Day 16
 **Name:** `Name`  
