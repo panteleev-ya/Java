@@ -109,3 +109,4 @@
 7. [Regular Expression Matching](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RegularExpressionMatching)
 8. [Reverse Nodes in k-Group](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ReverseNodesInKGroup)
 9. [Longest Valid Parentheses](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LongestValidParentheses)
+10. [Sudoku Solver](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SudokuSolver)
