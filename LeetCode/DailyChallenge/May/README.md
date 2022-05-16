@@ -60,8 +60,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day15)
 ## Day 16
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Shortest Path in Binary Matrix`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day16)
 ## Day 17
 **Name:** `Name`  
