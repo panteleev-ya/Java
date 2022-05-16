@@ -1,0 +1,2 @@
+# Convert Sorted Array to Binary Search Tree
+Решение задачи [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) с сайта **LeetCode** на языке **Java**
