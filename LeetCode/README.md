@@ -38,6 +38,7 @@
 32. [Same Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SameTree)
 33. [Maximum Depth of Binary Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MaximumDepthOfBinaryTree)
 34. [Convert Sorted Array to Binary Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ConvertSortedArrayToBinarySearchTree)
+35. [Print in Order](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PrintInOrder)
 
 ### Medium
 1. [Line Reflection](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LineReflection)
@@ -101,6 +102,11 @@
 59. [Swap Nodes in Pairs](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SwapNodesInPairs)
 60. [Divide Two Integers](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/DivideTwoIntegers)
 61. [Valid Sudoku](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ValidSudoku)
+62. [Print FooBar Alternately](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PrintFooBarAlternately)
+63. [Print Zero Even Odd](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PrintZeroEvenOdd)
+64. [Building H2O](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/BuildingH2O)
+65. [Fizz Buzz Multithreaded](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/FizzBuzzMultithreaded)
+66. [The Dining Philosophers](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/TheDiningPhilosophers)
 
 ### Hard
 1. [Merge K Sorted Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MergeKSortedLists)
