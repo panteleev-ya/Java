@@ -64,8 +64,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day16)
 ## Day 17
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Find a Corresponding Node of a Binary Tree in a Clone of That Tree`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day17)
 ## Day 18
 **Name:** `Name`  
