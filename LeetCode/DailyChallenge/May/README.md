@@ -68,12 +68,12 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day17)
 ## Day 18
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Critical Connections in a Network`  
+**Difficulty**: `Hard`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day18)
 ## Day 19
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Longest Increasing Path in a Matrix`  
+**Difficulty**: `Hard`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day19)
 ## Day 20
 **Name:** `Name`  
