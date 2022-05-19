@@ -39,6 +39,12 @@
 33. [Maximum Depth of Binary Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MaximumDepthOfBinaryTree)
 34. [Convert Sorted Array to Binary Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ConvertSortedArrayToBinarySearchTree)
 35. [Print in Order](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PrintInOrder)
+36. [Balanced Binary Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/BalancedBinaryTree)
+37. [Minimum Depth of Binary Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MinimumDepthOfBinaryTree)
+38. [Path Sum](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PathSum)
+39. [Pascal's Triangle](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PascalsTriangle)
+40. [Pascal's Triangle II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PascalsTriangleII)
+41. [Best Time to Buy and Sell Stock](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/BestTimeToBuyAndSellStock)
 
 ### Medium
 1. [Line Reflection](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LineReflection)
