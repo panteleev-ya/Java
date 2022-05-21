@@ -45,6 +45,11 @@
 39. [Pascal's Triangle](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PascalsTriangle)
 40. [Pascal's Triangle II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/PascalsTriangleII)
 41. [Best Time to Buy and Sell Stock](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/BestTimeToBuyAndSellStock)
+42. [Linked List Cycle](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LinkedListCycle)
+43. [Binary Tree Preorder Traversal](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/BinaryTreePreorderTraversal)
+44. [Binary Tree Postorder Traversal](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/BinaryTreePostorderTraversal)
+45. [Intersection of Two Linked Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/IntersectionOfTwoLinkedLists)
+46. [Excel Sheet Column Title](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ExcelSheetColumnTitle)
 
 ### Medium
 1. [Line Reflection](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LineReflection)
