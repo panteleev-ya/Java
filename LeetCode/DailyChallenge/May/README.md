@@ -76,16 +76,16 @@
 **Difficulty**: `Hard`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day19)
 ## Day 20
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Unique Paths II`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day20)
 ## Day 21
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Coin Change`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day21)
 ## Day 22
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Palindromic Substrings`  
+**Difficulty**: `Mediun`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day22)
 ## Day 23
 **Name:** `Name`  
