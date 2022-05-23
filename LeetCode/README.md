@@ -50,6 +50,13 @@
 44. [Binary Tree Postorder Traversal](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/BinaryTreePostorderTraversal)
 45. [Intersection of Two Linked Lists](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/IntersectionOfTwoLinkedLists)
 46. [Excel Sheet Column Title](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ExcelSheetColumnTitle)
+47. [Majority Element](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/MajorityElement)
+48. [Excel Sheet Column Number](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ExcelSheetColumnNumber)
+49. [Number of 1 Bits](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/NumberOfOneBits)
+50. [Remove Linked List Elements](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/RemoveLinkedListElements)
+51. [Isomorphic Strings](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/IsomorphicStrings)
+52. [Contains Duplicate](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ContainsDuplicate)
+53. [Contains Duplicate II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/ContainsDuplicateII)
 
 ### Medium
 1. [Line Reflection](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/LineReflection)
