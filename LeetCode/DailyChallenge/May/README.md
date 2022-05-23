@@ -88,8 +88,8 @@
 **Difficulty**: `Mediun`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day22)
 ## Day 23
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Ones and Zeroes`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day23)
 ## Day 24
 **Name:** `Name`  
