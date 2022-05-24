@@ -92,8 +92,8 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day23)
 ## Day 24
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Longest Valid Parentheses`  
+**Difficulty**: `Hard`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day24)
 ## Day 25
 **Name:** `Name`  
