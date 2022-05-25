@@ -96,8 +96,8 @@
 **Difficulty**: `Hard`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day24)
 ## Day 25
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Russian Doll Envelopes`  
+**Difficulty**: `Hard`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day25)
 ## Day 26
 **Name:** `Name`  
