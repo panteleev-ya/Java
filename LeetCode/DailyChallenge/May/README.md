@@ -100,8 +100,8 @@
 **Difficulty**: `Hard`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day25)
 ## Day 26
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Number of 1 Bits`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day26)
 ## Day 27
 **Name:** `Name`  
