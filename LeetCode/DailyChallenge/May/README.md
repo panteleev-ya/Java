@@ -104,8 +104,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day26)
 ## Day 27
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Number of Steps to Reduce a Number to Zero`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day27)
 ## Day 28
 **Name:** `Name`  
