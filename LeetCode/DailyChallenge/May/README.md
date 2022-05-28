@@ -108,8 +108,8 @@
 **Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day27)
 ## Day 28
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Missing Number`  
+**Difficulty**: `Easy`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day28)
 ## Day 29
 **Name:** `Name`  
