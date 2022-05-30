@@ -116,6 +116,6 @@
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day29)
 ## Day 30
-**Name:** `Name`  
-**Difficulty**: `Difficulty`  
+**Name:** `Divide Two Integers`  
+**Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day30)
