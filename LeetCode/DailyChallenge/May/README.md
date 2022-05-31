@@ -119,3 +119,7 @@
 **Name:** `Divide Two Integers`  
 **Difficulty**: `Medium`  
 **Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day30)
+## Day 30
+**Name:** `Check If a String Contains All Binary Codes of Size K`  
+**Difficulty**: `Medium`  
+**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day31)
