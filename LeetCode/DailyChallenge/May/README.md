@@ -1,125 +1,38 @@
 # LeetCode April Daily Challenge
-## Day 1
-**Name:** `Backspace String Compare`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day1)
-## Day 2
-**Name:** `Sort Array By Parity`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day2)
-## Day 3
-**Name:** `Shortest Unsorted Continuous Subarray`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day3)
-## Day 4
-**Name:** `Max Number of K-Sum Pairs`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day4)
-## Day 5
-**Name:** `Implement Stack using Queues`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day5)
-## Day 6
-**Name:** `Remove All Adjacent Duplicates in String II`  
-**Difficulty**: `Medium`   
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day6)
-## Day 7
-**Name:** `132 Pattern`  
-**Difficulty**: `Medium`   
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day7)
-## Day 8
-**Name:** `Flatten Nested List Iterator`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day8)
-## Day 9
-**Name:** `Letter Combinations of a Phone Number`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day9)
-## Day 10
-**Name:** `Combination Sum III`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day10)
-## Day 11
-**Name:** `Count Sorted Vowel Strings`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day11)
-## Day 12
-**Name:** `Permutations II`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day12)
-## Day 13
-**Name:** `Populating Next Right Pointers in Each Node II`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day13)
-## Day 14
-**Name:** `Network Delay Time`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day14)
-## Day 15
-**Name:** `Deepest Leaves Sum`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day15)
-## Day 16
-**Name:** `Shortest Path in Binary Matrix`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day16)
-## Day 17
-**Name:** `Find a Corresponding Node of a Binary Tree in a Clone of That Tree`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day17)
-## Day 18
-**Name:** `Critical Connections in a Network`  
-**Difficulty**: `Hard`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day18)
-## Day 19
-**Name:** `Longest Increasing Path in a Matrix`  
-**Difficulty**: `Hard`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day19)
-## Day 20
-**Name:** `Unique Paths II`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day20)
-## Day 21
-**Name:** `Coin Change`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day21)
-## Day 22
-**Name:** `Palindromic Substrings`  
-**Difficulty**: `Mediun`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day22)
-## Day 23
-**Name:** `Ones and Zeroes`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day23)
-## Day 24
-**Name:** `Longest Valid Parentheses`  
-**Difficulty**: `Hard`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day24)
-## Day 25
-**Name:** `Russian Doll Envelopes`  
-**Difficulty**: `Hard`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day25)
-## Day 26
-**Name:** `Number of 1 Bits`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day26)
-## Day 27
-**Name:** `Number of Steps to Reduce a Number to Zero`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day27)
-## Day 28
-**Name:** `Missing Number`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day28)
-## Day 29
-**Name:** `Maximum Product of Word Lengths`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day29)
-## Day 30
-**Name:** `Divide Two Integers`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day30)
-## Day 30
-**Name:** `Check If a String Contains All Binary Codes of Size K`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day31)
+
+## Easy
+1) [Backspace String Compare](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day1)
+2) [Sort Array By Parity](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day2)
+3) [Implement Stack using Queues](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day5)
+4) [Number of 1 Bits](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day26)
+5) [Number of Steps to Reduce a Number to Zero](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day27)
+6) [Missing Number](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day28)
+
+## Medium
+1) [Shortest Unsorted Continuous Subarray](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day3)
+2) [Max Number of K-Sum Pairs](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day4)
+3) [Remove All Adjacent Duplicates in String II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day6)
+4) [132 Pattern](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day7)
+5) [Flatten Nested List Iterator](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day8)
+6) [Letter Combinations of a Phone Number](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day9)
+7) [Combination Sum III](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day10)
+8) [Count Sorted Vowel Strings](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day11)
+9) [Permutations II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day12)
+10) [Populating Next Right Pointers in Each Node II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day13)
+11) [Network Delay Time](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day14)
+12) [Deepest Leaves Sum](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day15)
+13) [Shortest Path in Binary Matrix](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day16)
+14) [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day17)
+15) [Unique Paths II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day20)
+16) [Coin Change](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day21)
+17) [Palindromic Substrings](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day22)
+18) [Ones and Zeroes](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day23)
+19) [Maximum Product of Word Lengths](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day29)
+20) [Divide Two Integers](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day30)
+21) [Check If a String Contains All Binary Codes of Size K](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day31)
+
+## Hard
+1) [Critical Connections in a Network](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day18)
+2) [Longest Increasing Path in a Matrix](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day19)
+3) [Longest Valid Parentheses](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day24)
+4) [Russian Doll Envelopes](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May/src/Day25)
