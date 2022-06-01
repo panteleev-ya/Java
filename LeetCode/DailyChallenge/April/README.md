@@ -1,121 +1,35 @@
 # LeetCode April Daily Challenge
-## Day 1
-**Name:** `Reverse String`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day1)
-## Day 2
-**Name:** `Valid Palindrome II`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day2)
-## Day 3
-**Name:** `Next Permutation`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day3)
-## Day 4
-**Name:** `Swapping Nodes in a Linked List`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day4)
-## Day 5
-**Name:** `Container With Most Water`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day5)
-## Day 6
-**Name:** `3Sum With Multiplicity`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day6)
-## Day 7
-**Name:** `Last Stone Weight`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day7)
-## Day 8
-**Name:** `Kth Largest Element in a Stream`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day8)
-## Day 9
-**Name:** `Top K Frequent Elements`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day9)
-## Day 10
-**Name:** `Baseball Game`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day10)
-## Day 11
-**Name:** `Shift 2D Grid`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day11)
-## Day 12
-**Name:** `Game of Life`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day12)
-## Day 13
-**Name:** `Spiral Matrix II`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day13)
-## Day 14
-**Name:** `Search in a Binary Search Tree`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day14)
-## Day 15
-**Name:** `Trim a Binary Search Tree`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day15)
-## Day 16
-**Name:** `Convert BST to Greater Tree`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day16)
-## Day 17
-**Name:** `Increasing Order Search Tree`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day17)
-## Day 18
-**Name:** `Kth Smallest Element in a BST`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day18)
-## Day 19
-**Name:** `Recover Binary Search Tree`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day19)
-## Day 20
-**Name:** `Binary Search Tree Iterator`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day20)
-## Day 21
-**Name:** `Design HashSet`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day21)
-## Day 22
-**Name:** `Design HashMap`  
-**Difficulty**: `Easy`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day22)
-## Day 23
-**Name:** `Encode and Decode TinyURL`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day23)
-## Day 24
-**Name:** `Design Underground System`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day24)
-## Day 25
-**Name:** `Peeking Iterator`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day25)
-## Day 26
-**Name:** `Min Cost to Connect All Points`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day26)
-## Day 27
-**Name:** `Smallest String With Swaps`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day27)
-## Day 28
-**Name:** `Path With Minimum Effort`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day28)
-## Day 29
-**Name:** `Is Graph Bipartite?`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day29)
-## Day 30
-**Name:** `Evaluate Division`  
-**Difficulty**: `Medium`  
-**Solution**: [link](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day30)
+
+## Easy
+1) [Reverse String](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day1)
+2) [Valid Palindrome II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day2)
+3) [Last Stone Weight](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day7)
+4) [Kth Largest Element in a Stream](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day8)
+5) [Baseball Game](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day10)
+6) [Shift 2D Grid](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day11)
+7) [Search in a Binary Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day14)
+8) [Increasing Order Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day17)
+9) [Design HashSet](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day21)
+10) [Design HashMap](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day22)
+
+## Medium
+1) [Next Permutation](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day3)
+2) [Swapping Nodes in a Linked List](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day4)
+3) [Container With Most Water](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day5)
+4) [3Sum With Multiplicity](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day6)
+5) [Top K Frequent Elements](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day9)
+6) [Game of Life](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day12)
+7) [Spiral Matrix II](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day13)
+8) [Trim a Binary Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day15)
+9) [Convert BST to Greater Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day16)
+10) [Kth Smallest Element in a BST](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day18)
+11) [Recover Binary Search Tree](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day19)
+12) [Binary Search Tree Iterator](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day20)
+13) [Encode and Decode TinyURL](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day23)
+14) [Design Underground System](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day24)
+15) [Peeking Iterator](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day25)
+16) [Min Cost to Connect All Points](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day26)
+17) [Smallest String With Swaps](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day27)
+18) [Path With Minimum Effort](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day28)
+19) [Is Graph Bipartite?](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day29)
+20) [Evaluate Division](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April/src/Day30)
