@@ -1,0 +1,1 @@
+# Отложенная инициализация (Lazy Initialization)
