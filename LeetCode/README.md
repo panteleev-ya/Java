@@ -2,6 +2,7 @@
 ## Daily Task Challenges
 1. [April](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/April)
 2. [May](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/May)
+3. [June](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/DailyChallenge/June)
 
 ### Easy
 1. [Summary Ranges](https://github.com/SmartOven/Java-projects/tree/main/LeetCode/src/SummaryRanges)
