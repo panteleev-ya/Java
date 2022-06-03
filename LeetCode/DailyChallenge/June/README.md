@@ -12,7 +12,7 @@
 3) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 
 ## Medium
-1) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+1) [Range Sum Query 2D - Immutable](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day3)
 1) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 1) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 1) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
