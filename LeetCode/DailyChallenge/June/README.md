@@ -4,7 +4,7 @@
 1) [Running Sum of 1d Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day1)
 2) [Transpose Matrix](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day2)
 3) [Intersection of Two Linked Lists](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day6)
-3) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+3) [Merge Sorted Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day7)
 3) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 3) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 3) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
