@@ -10,9 +10,9 @@
 7. [Реестр, Журнал записей (Registry)](https://github.com/SmartOven/Java/tree/main/OOP-Patterns/src/Registry)
 8. [Пул одиночек (Multiton)](https://github.com/SmartOven/Java/tree/main/OOP-Patterns/src/Multiton)
 9. [Пул объектов (Object pool)](https://github.com/SmartOven/Java/tree/main/OOP-Patterns/src/ObjectPool)
-10. [Отложенная инициализация (Lazy Initialization)]()
-11. [Внедрение зависимости(Dependency Injection)]()
-12. [Локатор служб (Service Locator)]()
+10. [Отложенная инициализация (Lazy Initialization)](https://github.com/SmartOven/Java/tree/main/OOP-Patterns/src/LazyInitialization)
+11. [Внедрение зависимости(Dependency Injection)](https://github.com/SmartOven/Java/tree/main/OOP-Patterns/src/DependencyInjection)
+12. [Локатор служб (Service Locator)](https://github.com/SmartOven/Java/tree/main/OOP-Patterns/src/ServiceLocator)
 
 ## Структурные
 1. [Адаптер (Adapter)](https://github.com/SmartOven/Java/tree/main/OOP-Patterns/src/Adapter)
