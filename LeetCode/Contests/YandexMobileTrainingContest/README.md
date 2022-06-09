@@ -9,5 +9,5 @@
 6) [F. TAF23](https://github.com/SmartOven/Java/tree/main/LeetCode/Contests/YandexMobileTrainingContest/src/TAF23)
 
 Реальные задачи:
-1) [A. Курьер Василий]()
-2) [B. Ошейники и песики]()
+1) [A. Курьер Василий](https://github.com/SmartOven/Java/tree/main/LeetCode/Contests/YandexMobileTrainingContest/src/CourierVasya)
+2) [B. Ошейники и песики](https://github.com/SmartOven/Java/tree/main/LeetCode/Contests/YandexMobileTrainingContest/src/Pesiki)
