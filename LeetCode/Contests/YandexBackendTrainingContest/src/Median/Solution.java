@@ -34,6 +34,9 @@ public class Solution {
                 } else {
                     bufferCounter--;
                 }
+                if (bufferCounter == 0) {
+                    continue;
+                }
                 if (bufferCounter < 0 && S[r - 1] == '0' || bufferCounter > 0 && S[r - 1] == '1') {
                     L[r] = l + 1;
                     break;
