@@ -15,7 +15,7 @@
 1) [Range Sum Query 2D - Immutable](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day3)
 2) [Two Sum II - Input Array Is Sorted](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day9)
 3) [Longest Substring Without Repeating Characters](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day10)
-4) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+4) [Minimum Operations to Reduce X to Zero](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 5) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 6) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 

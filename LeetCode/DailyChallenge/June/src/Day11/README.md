@@ -1,0 +1,2 @@
+# Minimum Operations to Reduce X to Zero
+Решение задачи [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) с сайта **LeetCode** на языке **Java**
