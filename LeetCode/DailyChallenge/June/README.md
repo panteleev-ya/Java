@@ -19,7 +19,7 @@
 3) [Longest Substring Without Repeating Characters](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day10)
 4) [Minimum Operations to Reduce X to Zero](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 5) [Maximum Erasure Value](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day12)
-6) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+6) [Triangle](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day13)
 7) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 8) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 9) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
