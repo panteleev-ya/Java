@@ -10,51 +10,57 @@ public class Solution {
             long a = console.nextLong();
             long b = console.nextLong();
 
-//            long maxPrimeDivisorDiff = 1;
-//            long divisor = 2;
-//            long answer = 1;
-//            while (a != 1 || b != 1) {
-//                long divisorCountA = 0;
-//                long divisorCountB = 0;
-//                while (a % divisor == 0) {
-//                    a /= divisor;
-//                    divisorCountA++;
-//                }
-//                while (b % divisor == 0) {
-//                    b /= divisor;
-//                    divisorCountB++;
-//                }
-//                if (divisorCountA == divisorCountB) {
-//                    answer *= Math.pow(divisor, divisorCountA);
-//                } else {
-//                    answer *= Math.pow(divisor, Math.min(divisorCountA, divisorCountB));
-//                    maxPrimeDivisorDiff = divisor;
-//                }
-//                divisor++;
-//            }
-//
-//            System.out.println(answer * maxPrimeDivisorDiff);
+            if (a == b) {
+                System.out.println(a);
+                continue;
+            }
 
-//            long maxPrimeDivisorDiff = 1;
-//
-//            if (a % 2 == 0 && b % 2 == 0) {
-//                a /= 2;
-//                b /= 2;
-//            }
-//
-//            long minNum = Math.min(a, b);
-//            for (long divisor = 3; divisor * divisor < minNum; divisor++) {
-//                while (a % divisor == 0 && b % divisor == 0) {
-//                    a /= divisor;
-//                    b /= divisor;
-//                }
-//
-//                if (a % divisor == 0 || b % divisor == 0) {
-//                    maxPrimeDivisorDiff = divisor;
-//                }
-//            }
+            long maxNum = Math.max(a, b);
 
-            System.out.println(getNOK(a, b) * maxDifferentPrimeDivider(a, b));
+            long answer = 1;
+            long maxPrimeDifferentDivisor = 1;
+
+            while (a % 2 == 0 && b % 2 == 0) {
+                a >>= 1;
+                b >>= 1;
+                answer <<= 1;
+            }
+
+            if (a % 2 == 0 || b % 2 == 0) {
+                maxPrimeDifferentDivisor = 2;
+                while (a % 2 == 0) {
+                    a >>= 1;
+                }
+                while (b % 2 == 0) {
+                    b >>= 1;
+                }
+            }
+
+            for (long divisor = 3; (a != 1 || b != 1) && divisor * divisor <= maxNum; divisor += 2) {
+                while (a % divisor == 0 && b % divisor == 0) {
+                    a /= divisor;
+                    b /= divisor;
+                    answer *= divisor;
+                }
+                if (a % divisor == 0 || b % divisor == 0) {
+                    maxPrimeDifferentDivisor = divisor;
+                    while (a % divisor == 0) {
+                        a /= divisor;
+                    }
+                    while (b % divisor == 0) {
+                        b /= divisor;
+                    }
+                }
+            }
+
+            if (a == b) {
+                answer *= a;
+            }
+
+            if (getNOK(a, b) == 1) {
+                maxPrimeDifferentDivisor = Math.max(maxPrimeDifferentDivisor, Math.max(a, b));
+            }
+            System.out.println(answer * maxPrimeDifferentDivisor);
         }
     }
 
@@ -68,68 +74,7 @@ public class Solution {
         }
         return a + b;
     }
-
-    private static long maxDifferentPrimeDivider(long a, long b) {
-        long answer = 1;
-
-        while (a % 2 == 0 && b % 2 == 0) {
-            a /= 2;
-            b /= 2;
-        }
-
-        if (a % 2 == 0 || b % 2 == 0) {
-            answer = 2;
-            while (a % 2 == 0) {
-                a /= 2;
-            }
-            while (b % 2 == 0) {
-                b /= 2;
-            }
-        }
-
-
-        for (long q = 3; q * q < a; q += 2) {
-            while (a % q == 0 && b % q == 0) {
-                a /= q;
-                b /= q;
-            }
-            if (a % q == 0 || b % q == 0) {
-                answer = q;
-                while (a % q == 0) {
-                    a /= q;
-                }
-                while (b % q == 0) {
-                    b /= q;
-                }
-            }
-        }
-
-        long resultAB = Math.max(a, b);
-        if (getNOK(a, b) != 1) {
-            resultAB = Math.min(a, b);
-        }
-        return Math.max(resultAB, answer);
-    }
 }
 
-//20
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
-//1 1000000000000
+//1
+//26 78
