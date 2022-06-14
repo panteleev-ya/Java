@@ -20,7 +20,7 @@
 4) [Minimum Operations to Reduce X to Zero](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 5) [Maximum Erasure Value](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day12)
 6) [Triangle](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day13)
-7) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+7) [Delete Operation for Two Strings](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day14)
 8) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 9) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 
