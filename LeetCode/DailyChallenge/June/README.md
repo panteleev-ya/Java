@@ -21,7 +21,7 @@
 5) [Maximum Erasure Value](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day12)
 6) [Triangle](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day13)
 7) [Delete Operation for Two Strings](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day14)
-8) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+8) [Longest String Chain](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day15)
 9) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 
 ## Hard
