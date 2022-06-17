@@ -27,5 +27,5 @@
 ## Hard
 1) [N-Queens](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day4)
 2) [N-Queens II](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day5)
-3) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+3) [Binary Tree Cameras](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day17)
 4) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
