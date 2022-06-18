@@ -28,4 +28,4 @@
 1) [N-Queens](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day4)
 2) [N-Queens II](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day5)
 3) [Binary Tree Cameras](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day17)
-4) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+4) [Prefix and Suffix Search](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day18)
