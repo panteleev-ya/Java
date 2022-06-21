@@ -25,7 +25,13 @@
 9) [Longest Palindromic Substring](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day16)
 10) [Search Suggestions System](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day19)
 11) [Short Encoding of Words](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day20)
-12) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+12) [Furthest Building You Can Reach](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day21)
+13) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+14) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+15) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+16) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+17) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+18) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 
 ## Hard
 1) [N-Queens](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day4)
