@@ -26,7 +26,7 @@
 10) [Search Suggestions System](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day19)
 11) [Short Encoding of Words](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day20)
 12) [Furthest Building You Can Reach](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day21)
-13) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+13) [Kth Largest Element in an Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day22)
 14) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 15) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 16) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
