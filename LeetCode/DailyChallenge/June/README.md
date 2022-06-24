@@ -39,3 +39,5 @@
 3) [Binary Tree Cameras](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day17)
 4) [Prefix and Suffix Search](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day18)
 5) [Course Schedule III](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day23)
+6) [Construct Target Array With Multiple Sums](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day24)
+7) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)

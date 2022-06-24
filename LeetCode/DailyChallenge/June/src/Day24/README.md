@@ -1,0 +1,2 @@
+# Construct Target Array With Multiple Sums
+Решение задачи [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) с сайта **LeetCode** на языке **Java**
