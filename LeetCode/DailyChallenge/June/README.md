@@ -27,7 +27,7 @@
 11) [Short Encoding of Words](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day20)
 12) [Furthest Building You Can Reach](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day21)
 13) [Kth Largest Element in an Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day22)
-14) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+14) [Non-decreasing Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day25)
 15) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 16) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 17) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
