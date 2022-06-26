@@ -1,0 +1,2 @@
+# Maximum Points You Can Obtain from Cards
+Решение задачи [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) с сайта **LeetCode** на языке **Java**

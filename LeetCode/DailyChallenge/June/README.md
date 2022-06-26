@@ -28,7 +28,7 @@
 12) [Furthest Building You Can Reach](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day21)
 13) [Kth Largest Element in an Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day22)
 14) [Non-decreasing Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day25)
-15) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+15) [Maximum Points You Can Obtain from Cards](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day26)
 16) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 17) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 18) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
