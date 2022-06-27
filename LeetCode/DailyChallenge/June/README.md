@@ -29,7 +29,7 @@
 13) [Kth Largest Element in an Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day22)
 14) [Non-decreasing Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day25)
 15) [Maximum Points You Can Obtain from Cards](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day26)
-16) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+16) [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day27)
 17) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 18) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 
