@@ -38,10 +38,11 @@ public class Solution {
         swap(nums, pIndex, right);
         pIndex = left;
 
-        for (int i = left; i <= right; i++)
+        for (int i = left; i <= right; i++) {
             if (nums[i] <= pivot) {
                 swap(nums, i, pIndex++);
             }
+        }
 
         return pIndex - 1;
     }
