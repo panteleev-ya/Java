@@ -6,7 +6,6 @@
 3) [Intersection of Two Linked Lists](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day6)
 4) [Merge Sorted Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day7)
 5) [Remove Palindromic Subsequences](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day8)
-6) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
 
 ## Medium
 1) [Range Sum Query 2D - Immutable](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day3)
@@ -27,7 +26,7 @@
 16) [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day27)
 17) [Minimum Deletions to Make Character Frequencies Unique](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day28)
 18) [Queue Reconstruction by Height](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day29)
-19) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
+19) [Minimum Moves to Equal Array Elements II](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day30)
 
 ## Hard
 1) [N-Queens](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day4)
@@ -36,4 +35,3 @@
 4) [Prefix and Suffix Search](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day18)
 5) [Course Schedule III](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day23)
 6) [Construct Target Array With Multiple Sums](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day24)
-7) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/June/src/Day)
