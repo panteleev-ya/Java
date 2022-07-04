@@ -10,4 +10,5 @@
 3) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
 
 ## Hard
-1) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
+1) [Candy](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day4)
+2) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
