@@ -10,7 +10,8 @@
 2) [Wiggle Subsequence](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day3)
 3) [Longest Consecutive Sequence](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day5)
 4) [Interleaving String](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day7)
-5) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
+5) [Jump Game VI](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day9)
+6) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
 
 ## Hard
 1) [Candy](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day4)
