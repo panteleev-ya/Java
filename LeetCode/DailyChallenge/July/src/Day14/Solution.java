@@ -5,26 +5,32 @@ public class Solution {
 
     }
 
-    private int preStart = 0;
+    private int index = 0;
 
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return recursion(preorder, inorder, 0, preorder.length - 1);
+        return buildTree(preorder, inorder, 0, preorder.length - 1);
     }
 
-    private TreeNode recursion(int[] preorder, int[] inorder, int left, int right) {
-        if (preStart == preorder.length || left > right) {
-            return null;
+    private TreeNode buildTree(int[] preorder, int[] inorder, int start, int end) {
+        // if there are no left and right children
+        if (end < start) return null;
+
+        TreeNode tree = new TreeNode(preorder[index++]);
+        //if(start == end) return tree;
+
+        int rootIndex = findIndex(inorder, start, end, tree.val);
+
+        tree.left = buildTree(preorder, inorder, start, rootIndex - 1);
+        tree.right = buildTree(preorder, inorder, rootIndex + 1, end);
+        return tree;
+    }
+
+    private int findIndex(int[] inorder, int start, int end, int val) {
+        while (start < end && inorder[start] != val && inorder[end] != val) {
+            start++;
+            end--;
         }
-        TreeNode root = new TreeNode(preorder[preStart]);
-        for (int i = left; i <= right; i++) {
-            if (preorder[preStart] == inorder[i]) {
-                preStart++;
-                root.left = recursion(preorder, inorder, left, i - 1);
-                root.right = recursion(preorder, inorder, i + 1, right);
-                break;
-            }
-        }
-        return root;
+        return inorder[start] == val ? start : end;
     }
 
     private static class TreeNode {
