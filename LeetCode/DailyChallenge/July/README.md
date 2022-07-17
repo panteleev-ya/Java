@@ -17,7 +17,8 @@
 8) [Binary Tree Level Order Traversal](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day13)
 9) [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day14)
 10) [Max Area of Island](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day15)
-11) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
+11) [Out of Boundary Paths](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day16)
+12) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
 
 ## Hard
 1) [Candy](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day4)
