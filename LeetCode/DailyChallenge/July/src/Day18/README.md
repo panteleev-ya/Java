@@ -1,0 +1,2 @@
+# Number of Submatrices That Sum to Target
+Решение задачи [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) с сайта **LeetCode** на языке **Java**
