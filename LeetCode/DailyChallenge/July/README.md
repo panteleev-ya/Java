@@ -21,7 +21,8 @@
 11) [Out of Boundary Paths](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day16)
 12) [Number of Matching Subsequences](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day20)
 13) [Reverse Linked List II](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day21)
-14) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
+14) [Partition List](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day22)
+15) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
 
 ## Hard
 1) [Candy](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day4)
