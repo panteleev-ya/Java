@@ -29,4 +29,4 @@
 2) [Paint House III](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day8)
 3) [K Inverse Pairs Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day17)
 4) [Number of Submatrices That Sum to Target](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day18)
-5) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
+5) [Count of Smaller Numbers After Self](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day23)
