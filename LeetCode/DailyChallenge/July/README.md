@@ -23,7 +23,8 @@
 13) [Reverse Linked List II](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day21)
 14) [Partition List](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day22)
 15) [Search a 2D Matrix II](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day24)
-16) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
+16) [Find First and Last Position of Element in Sorted Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day25)
+17) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
 
 ## Hard
 1) [Candy](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day4)
