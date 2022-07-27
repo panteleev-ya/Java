@@ -25,7 +25,8 @@
 15) [Search a 2D Matrix II](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day24)
 16) [Find First and Last Position of Element in Sorted Array](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day25)
 17) [Lowest Common Ancestor of a Binary Tree](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day26)
-18) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
+18) [Flatten Binary Tree to Linked List](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day27)
+19) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
 
 ## Hard
 1) [Candy](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day4)
