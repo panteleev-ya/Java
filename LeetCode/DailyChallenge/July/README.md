@@ -5,7 +5,7 @@
 2) [Fibonacci Number](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day6)
 3) [Min Cost Climbing Stairs](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day10)
 4) [Pascal's Triangle](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day19)
-5) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
+5) [Valid Anagram](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day28)
 
 ## Medium
 1) [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day2)
