@@ -28,7 +28,7 @@
 18) [Flatten Binary Tree to Linked List](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day27)
 19) [Find and Replace Pattern](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day29)
 20) [Word Subsets](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day30)
-21) [](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day)
+21) [Range Sum Query - Mutable](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day30)
 
 ## Hard
 1) [Candy](https://github.com/SmartOven/Java/tree/main/LeetCode/DailyChallenge/July/src/Day4)
