@@ -1,2 +1,2 @@
-# 
-Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**
+# Counting Bits
+Решение задачи [Counting Bits](https://leetcode.com/problems/counting-bits) c сайта **LeetCode** на языке **Java**
