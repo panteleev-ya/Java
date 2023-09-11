@@ -1,0 +1,2 @@
+# Populating Next Right Pointers in Each Node II
+Решение задачи [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) c сайта **LeetCode** на языке **Java**
