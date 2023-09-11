@@ -1,2 +1,2 @@
-# 
-Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**
+# Reverse Linked List II
+Решение задачи [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) c сайта **LeetCode** на языке **Java**
