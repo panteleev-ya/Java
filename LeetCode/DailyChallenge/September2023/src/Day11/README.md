@@ -1,2 +1,2 @@
-# 
-Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**
+# Group the People Given the Group Size They Belong To
+Решение задачи [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) c сайта **LeetCode** на языке **Java**
