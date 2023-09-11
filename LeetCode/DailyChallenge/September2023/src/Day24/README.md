@@ -1,2 +1,2 @@
-# Longest Valid Parentheses
-Решение задачи [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) c сайта **LeetCode** на языке **Java**
+# 
+Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**

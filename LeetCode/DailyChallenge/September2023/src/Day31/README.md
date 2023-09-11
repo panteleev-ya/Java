@@ -1,2 +1,0 @@
-# Check If a String Contains All Binary Codes of Size K
-Решение задачи [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) c сайта **LeetCode** на языке **Java**

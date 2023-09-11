@@ -1,2 +1,2 @@
-# Network Delay Time
-Решение задачи [Network Delay Time](https://leetcode.com/problems/network-delay-time/) c сайта **LeetCode** на языке **Java**
+# 
+Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**

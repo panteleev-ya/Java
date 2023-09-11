@@ -1,2 +1,2 @@
-# Coin Change
-Решение задачи [Coin Change](https://leetcode.com/problems/coin-change/) c сайта **LeetCode** на языке **Java**
+# 
+Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**

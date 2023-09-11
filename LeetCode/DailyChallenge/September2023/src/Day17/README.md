@@ -1,2 +1,2 @@
-# Find a Corresponding Node of a Binary Tree in a Clone of That Tree
-Решение задачи [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) c сайта **LeetCode** на языке **Java**
+# 
+Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**

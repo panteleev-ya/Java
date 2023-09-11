@@ -1,2 +1,2 @@
-# Permutations II
-Решение задачи [Permutations II](https://leetcode.com/problems/permutations-ii/) c сайта **LeetCode** на языке **Java**
+# 
+Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**

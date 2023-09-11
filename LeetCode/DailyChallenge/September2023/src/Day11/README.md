@@ -1,2 +1,2 @@
-# Count Sorted Vowel Strings
-Решение задачи [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) c сайта **LeetCode** на языке **Java**
+# 
+Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**

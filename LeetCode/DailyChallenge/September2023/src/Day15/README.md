@@ -1,2 +1,2 @@
-# Deepest Leaves Sum
-Решение задачи [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) c сайта **LeetCode** на языке **Java**
+# 
+Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**

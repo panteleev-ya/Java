@@ -1,2 +1,2 @@
-# Palindromic Substrings
-Решение задачи [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) c сайта **LeetCode** на языке **Java**
+# 
+Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**

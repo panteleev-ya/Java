@@ -1,2 +1,2 @@
-# Missing Number
-Решение задачи [Missing Number](https://leetcode.com/problems/missing-number/) c сайта **LeetCode** на языке **Java**
+# 
+Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**
