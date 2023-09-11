@@ -1,2 +1,2 @@
-# 
-Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**
+# Linked List Cycle
+Решение задачи [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) c сайта **LeetCode** на языке **Java**
