@@ -1,2 +1,2 @@
-# 
-Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**
+# Path With Minimum Effort
+Решение задачи [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) c сайта **LeetCode** на языке **Java**
