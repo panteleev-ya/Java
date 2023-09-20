@@ -1,2 +1,2 @@
-# 
-Решение задачи [](https://leetcode.com/problems/) c сайта **LeetCode** на языке **Java**
+# Minimum Operations to Reduce X to Zero
+Решение задачи [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) c сайта **LeetCode** на языке **Java**
