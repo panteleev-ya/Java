@@ -18,18 +18,6 @@ public class Solution {
                 notZeroIndex++;
             }
         }
-        for (int i = 0; i < nums.length; i++) {
-            nums[i] = movedZeros[i];
-        }
+        System.arraycopy(movedZeros, 0, nums, 0, nums.length);
     }
 }
-
-//    tmparr = new Array(nums.length);
-//    size_t i, j;
-//    for (i = 0, j = 0; j < nums.size(); j++) {
-//        if (nums[j] != 0) {
-//            tmparr[i] = nums[j];
-//            i++;
-//        }
-//    }
-//    nums = tmparr;
