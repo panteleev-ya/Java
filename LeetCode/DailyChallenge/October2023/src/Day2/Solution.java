@@ -1,37 +1,30 @@
 package Day2;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
-
 public class Solution {
     public static void main(String[] args) {
-        String s = "dwmodizxvvbosxxw";
-        // [d] {wmo} {diz} [x] {v} {v} [b] {o} [s] [x] [x] [w]
-        String[] dictionary = {
-                "cehy", "diz", "ds", "e",
-                "gu", "ksv", "kzbu", "lb",
-                "nuq", "o", "ox", "r",
-                "tskz", "txhe", "v", "wmo",
-        };
-        System.out.println(new Solution().minExtraChar(s, dictionary));
+        System.out.println(new Solution().winnerOfGame("AAABABB"));
     }
 
-    public int minExtraChar(String s, String[] dictionary) {
-        int[] dp = new int[s.length() + 1];
-        Arrays.fill(dp, s.length() + 1);
-        dp[0] = 0;
-
-        Set<String> dictionarySet = new HashSet<>(Arrays.asList(dictionary));
-
-        for (int i = 1; i <= s.length(); i++) {
-            dp[i] = dp[i - 1] + 1;
-            for (int l = 1; l <= i; l++) {
-                if (dictionarySet.contains(s.substring(i - l, i))) {
-                    dp[i] = Math.min(dp[i], dp[i - l]);
+    public boolean winnerOfGame(String colors) {
+        int aliceTurnsCount = 0;
+        int bobTurnsCount = 0;
+        int aliceColors = 0;
+        int bobColors = 0;
+        for (char color : colors.toCharArray()) {
+            if (color == 'A') {
+                bobColors = 0;
+                aliceColors++;
+                if (aliceColors >= 3) {
+                    aliceTurnsCount++;
+                }
+            } else {
+                aliceColors = 0;
+                bobColors++;
+                if (bobColors >= 3) {
+                    bobTurnsCount++;
                 }
             }
         }
-        return dp[s.length()];
+        return aliceTurnsCount > bobTurnsCount;
     }
 }

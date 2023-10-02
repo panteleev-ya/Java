@@ -1,2 +1,2 @@
-# Extra Characters in a String
-Решение задачи [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string) c сайта **LeetCode** на языке **Java**
+# Remove Colored Pieces if Both Neighbors are the Same Color
+Решение задачи [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) c сайта **LeetCode** на языке **Java**
