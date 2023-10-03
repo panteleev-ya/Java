@@ -1,2 +1,2 @@
-# Unique Paths
-Решение задачи [Unique Paths](https://leetcode.com/problems/unique-paths) c сайта **LeetCode** на языке **Java**
+# Number of Good Pairs
+Решение задачи [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) c сайта **LeetCode** на языке **Java**

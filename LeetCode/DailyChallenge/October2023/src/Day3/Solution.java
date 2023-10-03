@@ -1,30 +1,20 @@
 package Day3;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Solution {
     public static void main(String[] args) {
-        int m = 3;
-        int n = 7;
-        System.out.println(new Solution().uniquePaths(m, n));
+        System.out.println(new Solution().numIdenticalPairs(new int[] { 1, 2, 3, 1, 1, 3 }));
     }
 
-    public int uniquePaths(int m, int n) {
-        int[][] grid = new int[m][n];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                grid[i][j] = 0;
-            }
+    public int numIdenticalPairs(int[] nums) {
+        Map<Integer, Integer> visited = new HashMap<>();
+        int count = 0;
+        for (int num : nums) {
+            count += visited.getOrDefault(num, 0);
+            visited.merge(num, 1, Integer::sum);
         }
-        for (int i = 0; i < m; i++) {
-            grid[i][n - 1] = 1;
-        }
-        for (int j = 0; j < n; j++) {
-            grid[m - 1][j] = 1;
-        }
-        for (int i = m - 2; i >= 0; i--) {
-            for (int j = n - 2; j >= 0; j--) {
-                grid[i][j] = grid[i + 1][j] + grid[i][j + 1];
-            }
-        }
-        return grid[0][0];
+        return count;
     }
 }
