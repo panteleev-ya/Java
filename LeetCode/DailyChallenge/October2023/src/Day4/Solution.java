@@ -1,30 +1,118 @@
 package Day4;
 
-import java.util.HashSet;
-import java.util.Set;
-
 public class Solution {
     public static void main(String[] args) {
-
+        MyHashMap map = new MyHashMap();
+        System.out.println(map.get(1)); // -1
+        map.put(1, 1);
+        System.out.println(map.get(1)); // 1
+        map.put(1, 2);
+        System.out.println(map.get(1)); // 2
+        map.remove(1);
+        System.out.println(map.get(1)); // -1
     }
 
-    public boolean hasCycle(ListNode head) {
-        Set<ListNode> uniqueNodes = new HashSet<>();
-        ListNode node = head;
-        while (node != null && !uniqueNodes.contains(node)) {
-            uniqueNodes.add(node);
-            node = node.next;
+    private static class MyHashMap {
+        private final Node[] nodes;
+
+        public MyHashMap() {
+            nodes = new Node[10006];
         }
-        return node != null;
-    }
 
-    static class ListNode {
-        int val;
-        ListNode next;
+        public void put(int key, int value) {
+            int index = getIndex(key);
+            Node current = nodes[index];
+            if (current == null) {
+                Node item = new Node(key, value);
+                nodes[index] = item;
+                return;
+            }
 
-        ListNode(int x) {
-            val = x;
-            next = null;
+            Node previous = null;
+            while (current != null && current.key != key) {
+                previous = current;
+                current = current.next;
+            }
+
+            if (current != null) {
+                current.value = value;
+                return;
+            }
+
+            previous.next = new Node(key, value);
+        }
+
+        public int get(int key) {
+            int index = getIndex(key);
+            Node current = nodes[index];
+            while (current != null) {
+                if (current.key == key) {
+                    return current.value;
+                }
+                current = current.next;
+            }
+            return -1;
+        }
+
+        public void remove(int key) {
+            int index = getIndex(key);
+            if (nodes[index] == null) {
+                return;
+            }
+
+            Node previous = null;
+            Node current = nodes[index];
+            while (current != null && current.key != key) {
+                previous = current;
+                current = current.next;
+            }
+
+            if (current == null) {
+                return;
+            }
+
+            if (previous != null) {
+                previous.next = current.next;
+                return;
+            }
+
+            // Удаляется первый элемент
+            nodes[index] = current.next;
+        }
+
+        private int getIndex(int key) {
+            return key % nodes.length;
+        }
+
+        static class Node {
+            private final int key;
+            private int value;
+            private Node next;
+
+            public Node(int key, int value) {
+                this.key = key;
+                this.value = value;
+            }
+
+            public int getKey() {
+                return key;
+            }
+
+            public int getValue() {
+                return value;
+            }
+
+            public void setValue(int value) {
+                this.value = value;
+            }
+
+            public Node getNext() {
+                return next;
+            }
+
+            public void setNext(Node next) {
+                this.next = next;
+            }
         }
     }
 }

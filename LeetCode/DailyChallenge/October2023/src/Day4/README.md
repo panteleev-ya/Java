@@ -1,2 +1,2 @@
-# Linked List Cycle
-Решение задачи [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) c сайта **LeetCode** на языке **Java**
+# Design HashMap
+Решение задачи [Design HashMap](https://leetcode.com/problems/design-hashmap) c сайта **LeetCode** на языке **Java**
