@@ -93,26 +93,6 @@ public class Solution {
                 this.key = key;
                 this.value = value;
             }
-
-            public int getKey() {
-                return key;
-            }
-
-            public int getValue() {
-                return value;
-            }
-
-            public void setValue(int value) {
-                this.value = value;
-            }
-
-            public Node getNext() {
-                return next;
-            }
-
-            public void setNext(Node next) {
-                this.next = next;
-            }
         }
     }
 }
