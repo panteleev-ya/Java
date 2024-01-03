@@ -1,47 +1,28 @@
 package LongestSubarrayofOnesAfterDeletingOneElement;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Comparator;
-
 public class Solution {
     public static void main(String[] args) {
-        int[] nums = {0, 0, 1, 1};
+        int[] nums = {1, 1, 0, 0, 1, 0, 1, 1, 1};
         System.out.println(longestSubarray(nums));
     }
+
     public static int longestSubarray(int[] nums) {
-        ArrayList<Integer> ranges = new ArrayList<>();
-        ArrayList<Integer> pairs = new ArrayList<>();
-        int i = 0;
-        int sum = 0;
-
-        // Собираем длины диапазонов 1-иц
-        for (; i < nums.length; i++) {
-            if (nums[i] == 1) {
-                sum++;
-            } else {
-                ranges.add(sum);
-                sum = 0;
+        int length = 0;
+        int indexZero = -1;
+        int result = -1;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == 0) {
+                if (indexZero != -1) {
+                    result = Math.max(i - length - 1, result);
+                    length = indexZero + 1;
+                }
+                indexZero = i;
             }
         }
-        if (sum > 0) {
-            ranges.add(sum);
+        if (result == -1) {
+            return nums.length - 1;
         }
-
-        // Собираем суммы соседей
-        for (i = 1; i < ranges.size(); i++) {
-            pairs.add(ranges.get(i - 1) + ranges.get(i));
-        }
-
-        // Нет нулей
-        if (pairs.size() == 0) {
-            if (ranges.size() == 0) {
-                return 0;
-            }
-            return ranges.get(0) - 1;
-        }
-
-        // Ищем максимум
-        return pairs.stream().max(Comparator.comparingInt(i2 -> i2)).get();
+        result = Math.max(nums.length - length - 1, result);
+        return result;
     }
 }

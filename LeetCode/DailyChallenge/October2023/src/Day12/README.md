@@ -1,0 +1,2 @@
+# Minimum Deletions to Make Character Frequencies Unique
+Решение задачи [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) c сайта **LeetCode** на языке **Java**

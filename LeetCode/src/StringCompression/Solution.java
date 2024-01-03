@@ -1,14 +1,12 @@
 package StringCompression;
 
-import java.util.Arrays;
-
 public class Solution {
     public static void main(String[] args) {
         char[] chars = {'a', 'a', 'b', 'b', 'c', 'c', 'c'};
-        System.out.println(compress(chars));
-        System.out.println(Arrays.toString(chars));
+        System.out.println(new Solution().compress(chars));
     }
-    public static int compress(char[] chars) {
+
+    public int compress(char[] chars) {
         int i = 0;
         StringBuilder result = new StringBuilder();
         while (i < chars.length) {
