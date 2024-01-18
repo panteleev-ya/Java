@@ -1,9 +1,9 @@
-package InsertDeleteGetRandomO1;
+package insertDeleteGetRandomO1;
 
 import java.util.ArrayList;
 import java.util.Random;
 
-public class RandomizedSet {
+public class RandomizedSetOld {
     private static class ListNode {
         private final int value;
         private ListNode next;
@@ -30,11 +30,11 @@ public class RandomizedSet {
     private final Random random = new Random();
     private ArrayList<Integer> notNull = new ArrayList<>(9_500);
 
-    public RandomizedSet(int capacity) {
+    public RandomizedSetOld(int capacity) {
         this.capacity = capacity;
         hashArray = new ListNode[capacity];
     }
-    public RandomizedSet() {
+    public RandomizedSetOld() {
         this.capacity = 20_000;
         hashArray = new ListNode[capacity];
     }

@@ -1,8 +1,8 @@
-package InsertDeleteGetRandomO1;
+package insertDeleteGetRandomO1;
 
 public class Solution {
     public static void main(String[] args) {
-        RandomizedSet randomizedSet = new RandomizedSet();
+        RandomizedSetOld randomizedSet = new RandomizedSetOld();
         randomizedSet.insert(1); // Inserts 1 to the set. Returns true as 1 was inserted successfully.
         randomizedSet.remove(2); // Returns false as 2 does not exist in the set.
         randomizedSet.insert(2); // Inserts 2 to the set, returns true. Set now contains [1,2].
