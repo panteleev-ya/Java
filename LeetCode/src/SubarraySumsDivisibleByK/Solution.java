@@ -18,9 +18,7 @@ public class Solution {
             if (sum < 0) {
                 sum += k;
             }
-            if (modules[sum] > 0) {
-                counter += modules[sum];
-            }
+            counter += modules[sum];
             modules[sum]++;
         }
         return counter;
