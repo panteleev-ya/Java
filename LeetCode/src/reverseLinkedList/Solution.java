@@ -1,12 +1,17 @@
 package reverseLinkedList;
 
-class sSolution {
-    public static void main(String[] args) {
-        ListNode list = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5, null)))));
-        System.out.println(new sSolution().reverseList(list));
-    }
-
+public class Solution {
     public ListNode reverseList(ListNode head) {
+        // 1->2->3->4->5
+        // save next to var:
+        //  2->3->4->5
+        // link current's next to previous:
+        //  1->null
+        // move 1 step (prev = curr; curr = next)
+        //  1->null
+        //  2->3->4->5
+        // repeat
+
         ListNode previous = null;
         ListNode current = head;
 
@@ -21,11 +26,18 @@ class sSolution {
     }
 
     public static class ListNode {
-        final int value;
+        int val;
         ListNode next;
 
-        public ListNode(int value, ListNode next) {
-            this.value = value;
+        ListNode() {
+        }
+
+        ListNode(int val) {
+            this.val = val;
+        }
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
             this.next = next;
         }
     }
