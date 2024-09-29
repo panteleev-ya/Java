@@ -17,13 +17,13 @@ public class LRUCache {
     }
 
     private final int capacity;
-    private final Map<Integer, ListNode> map;
+    private final Map<Integer, ListNode> nodesMap;
     private final ListNode head;
     private final ListNode tail;
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        map = new HashMap<>();
+        this.nodesMap = new HashMap<>();
         head = new ListNode(-1, -1);
         tail = new ListNode(-1, -1);
         head.next = tail;
@@ -31,42 +31,47 @@ public class LRUCache {
     }
 
     public int get(int key) {
-        if (!map.containsKey(key)) {
+        ListNode node = nodesMap.get(key);
+        if (node == null) {
             return -1;
         }
 
-        ListNode node = map.get(key);
-        remove(node);
-        add(node);
+        // put current node to the end of doubly-linked list
+        // to mark it as most recently used
+        removeNode(node);
+        addNode(node);
+
         return node.val;
     }
 
     public void put(int key, int value) {
-        if (map.containsKey(key)) {
-            ListNode oldNode = map.get(key);
-            remove(oldNode);
+        if (nodesMap.containsKey(key)) {
+            removeNode(nodesMap.get(key)); // remove node with previous value
         }
 
         ListNode node = new ListNode(key, value);
-        map.put(key, node);
-        add(node);
 
-        if (map.size() > capacity) {
-            ListNode nodeToDelete = head.next;
-            remove(nodeToDelete);
-            map.remove(nodeToDelete.key);
+        nodesMap.put(key, node);
+        addNode(node);
+
+        if (nodesMap.size() > capacity) {
+            ListNode lru = head.next;
+            removeNode(lru);
+            nodesMap.remove(lru.key);
         }
     }
 
-    private void add(ListNode node) {
+    private void addNode(ListNode node) {
         ListNode previousEnd = tail.prev;
+
         previousEnd.next = node;
         node.prev = previousEnd;
+
         node.next = tail;
         tail.prev = node;
     }
 
-    private void remove(ListNode node) {
+    private void removeNode(ListNode node) {
         node.prev.next = node.next;
         node.next.prev = node.prev;
     }
