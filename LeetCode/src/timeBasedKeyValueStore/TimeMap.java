@@ -6,56 +6,61 @@ import java.util.List;
 import java.util.Map;
 
 public class TimeMap {
-    private final Map<String, List<TimedValue>> map;
+    private final Map<String, List<Pair<Integer, String>>> storage;
 
     public TimeMap() {
-        map = new HashMap<>();
+        storage = new HashMap<>();
     }
 
-    // Stores the key `key` with the value `value` at the given time `timestamp`.
     public void set(String key, String value, int timestamp) {
-        List<TimedValue> values = map.getOrDefault(key, new ArrayList<>());
-        int index = binarySearchForIndex(values, timestamp);
-        values.add(index, new TimedValue(timestamp, value));
-        map.put(key, values);
+        if (!storage.containsKey(key)) {
+            storage.put(key, new ArrayList<>());
+        }
+        storage.get(key).add(new Pair<>(timestamp, value));
     }
 
-    // Returns the most recent value associated with key `key` before timestamp `timestamp`
     public String get(String key, int timestamp) {
-        List<TimedValue> values = map.getOrDefault(key, new ArrayList<>());
-        int index = binarySearchForIndex(values, timestamp);
-        if (index >= values.size()) {
+        if (!storage.containsKey(key)) {
             return "";
         }
-        return values.get(index).value;
-    }
+        List<Pair<Integer, String>> bucket = storage.get(key);
 
-    private int binarySearchForIndex(List<TimedValue> values, int timestamp) {
-        int left = 0;
-        int right = values.size() - 1;
-        if (values.isEmpty() || timestamp < values.get(right).timestamp) {
-            return right + 1;
+        // looking for a timestamp `t` where `t` <= `timestamp` and `t` is maximized
+        Pair<Integer, String> earliestPair = bucket.get(0);
+        if (earliestPair.getKey() > timestamp) {
+            return "";
         }
 
+        int left = 0;
+        int right = bucket.size() - 1;
         while (left < right) {
-            int middle = (left + right) / 2;
-            if (timestamp < values.get(middle).timestamp) {
-                left = middle + 1;
+            int middle = (left + right + 1) / 2;
+            int t = bucket.get(middle).getKey();
+            if (t > timestamp) {
+                right = middle - 1; // middle doesn't meet requirements
             } else {
-                right = middle;
+                left = middle; // could be the maximum
             }
         }
 
-        return left;
+        return bucket.get(left).getValue();
     }
 
-    private static class TimedValue {
-        int timestamp;
-        String value;
+    private static class Pair<K, V> {
+        K key;
+        V value;
 
-        public TimedValue(int timestamp, String value) {
-            this.timestamp = timestamp;
+        public Pair(K key, V value) {
+            this.key = key;
             this.value = value;
+        }
+
+        public K getKey() {
+            return key;
+        }
+
+        public V getValue() {
+            return value;
         }
     }
 }
